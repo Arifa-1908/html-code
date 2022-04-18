@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+#button1{
+padding: 10px;
+background-color: blue;
+font-size:22px;
+border-radius:10px;
+}
+</style>
+</head>
+<body>
+<forms>
+<h1>HTML Login Page</h1>
+
+Username: <input type="text" name="Username" value="" maxlength="20"><br><br>
+Password: <input type="password" name="password" maxlength="20"><br><br>
+<input type="submit" value="Signin" id="button1"/>
+
+
+</body>
+</html>
